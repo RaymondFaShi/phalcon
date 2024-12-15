@@ -6,4 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Phalcon\\Migrations\\' => array($vendorDir . '/phalcon/migrations/src'),
+    'Phalcon\\Cop\\' => array($vendorDir . '/phalcon/cli-options-parser/src'),
 );

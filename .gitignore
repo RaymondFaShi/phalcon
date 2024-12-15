@@ -1,0 +1,7 @@
+.DS_Store
+.history
+/.idea
+*.code-workspace
+.vscode
+.htaccess
+server/app/python/__pycache__/

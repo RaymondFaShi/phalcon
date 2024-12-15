@@ -1,5 +1,12 @@
 {
     "require-dev": {
-        "phalcon/ide-stubs": "^5.8"
+        "phalcon/ide-stubs": "^5.8",
+        "phalcon/migrations": "^3.0"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
     }
 }
